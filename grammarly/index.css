@@ -1,0 +1,44 @@
+#sidebar{
+    background-color: rgb(4, 77, 119);
+    width: 180px;
+    height: 800px;
+
+    float:left;
+    
+   
+}
+nav{
+    background-color: rgb(4, 77, 119);
+}
+
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: black;
+    background-color: rgb(13, 113, 170);
+}
+.navbar{
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+button{
+    color: blue;
+    background-color: green;
+}
+.write{
+margin-left: 230px;
+margin-top :100px;
+width: 300px;
+height: 400px;
+
+}
+.card{
+float: right;
+margin-top: 120px;
+margin-right: 60px;
+
+}
+
+
